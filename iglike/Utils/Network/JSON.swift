@@ -1,5 +1,5 @@
 //
-//  JSONNull.swift
+//  JSON.swift
 //  iglike
 //
 //  Created by Aji Nugrahaning WIdhi on 25/04/25.
