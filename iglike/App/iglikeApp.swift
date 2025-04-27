@@ -11,7 +11,8 @@ import SwiftUI
 struct iglikeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView(viewModel: HomeViewModel(repository: MediaRepositoryImpl(service: MediaService())))
         }
     }
 }
+
